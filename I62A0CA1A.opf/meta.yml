@@ -1,0 +1,16 @@
+id: I62A0CA1A
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:52:47.137655
+last_modified: 2023-02-08 14:52:47.137819
+source_metadata:
+  title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+  language: zh
+bases:
+  0480:
+    base_file: 0480.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
